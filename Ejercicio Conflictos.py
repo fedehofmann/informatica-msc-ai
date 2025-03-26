@@ -1,0 +1,1 @@
+print("Hola, mundo del Master en IA 👋")
