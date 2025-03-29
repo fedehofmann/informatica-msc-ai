@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignorar archivos del sistema de macOS
+.DS_Store
+
+# Ignorar archivos temporales de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos específicos que no deseas subir al repo
+Ejercicio Conflictos.py
+
